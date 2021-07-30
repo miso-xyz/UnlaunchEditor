@@ -3,7 +3,7 @@ Useless editor for Unlaunch.DSI
 
 ***No releases will be available until the application has reached a stable version, which it is (currently) far from***
 # Is able to
-- Background (Fully working, no palette issues)
+- Background (Fully working, no palette issues (as im aware))
   - [x] Export
   - [x] Replace
   - [x] "Compile"
