@@ -24,3 +24,6 @@ Useless editor for Unlaunch.DSI
 # Preview
 <img src="https://i.imgur.com/hE1bY9R.png">
 <img src="https://i.imgur.com/UDHwn5V.png">
+
+# Credits
+<a href="https://github.com/SNBeast/">SNBeast</a> - <a href="https://github.com/SNBeast/Unlaunch-GIF-Patcher">Unlaunch GIF Patcher</a>
