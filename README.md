@@ -3,7 +3,7 @@ Useless editor for Unlaunch.DSI
 
 ***No releases will be available until the application has reached a stable version, which it is (currently) far from***
 # Is able to
-- Background
+- Background (Fully working, no palette issues)
   - [x] Export
   - [x] Replace
   - [x] "Compile"
@@ -13,9 +13,14 @@ Useless editor for Unlaunch.DSI
   - [ ] "Compile"
 
 # To Do
-- Add a LZ77 (de)compressor
-- Improved string extraction
-- String editor
+- Strings-related
+  - Add a LZ77 (de)compressor
+  - Improved string extraction
+  - String editor
+- Other
+  - Optimise Code
+  - Improve GUI
 
 # Preview
 <img src="https://i.imgur.com/hE1bY9R.png">
+<img src="https://i.imgur.com/UDHwn5V.png">
